@@ -1,0 +1,12 @@
+---
+:id: 28946626
+:submitters:
+- :name: Rohan Suri
+  :email: rohan.suri@colorado.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-02-08 06:59:10.366949000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-02-07 22:59:10.366949000 Z
+:status: processed
+:score: 94.0
